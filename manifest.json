@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
+  "filename": "NewHorizonsConfig.dll",
+  "author": "CreativeNameTxt",
+  "name": "March of gears",
+  "uniqueName": "CreativeNameTxt.OrbitTest",
+  "version": "0.0.1",
+  "owmlVersion": "2.5.2",
+  "dependencies": [ "xen.NewHorizons" ]
+}
